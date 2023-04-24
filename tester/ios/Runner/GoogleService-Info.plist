@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1080642464784-svnt8kjq9ttbeis5vo8beq30o48vjlb1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080642464784-svnt8kjq9ttbeis5vo8beq30o48vjlb1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFsSSTyu9ytVrlXxkjRLgXDTjkYhEItZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080642464784</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tester</string>
+	<key>PROJECT_ID</key>
+	<string>tripper-99ad6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tripper-99ad6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080642464784:ios:c19e6d88857f2638422e95</string>
+	<key>DATABASE_URL</key>
+	<string>https://tripper-99ad6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

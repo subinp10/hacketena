@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "35225969180",
+    "project_id": "copper-tempo-382507",
+    "storage_bucket": "copper-tempo-382507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35225969180:android:4e3af457296c3ad1ffb5d9",
+        "android_client_info": {
+          "package_name": "com.example.tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35225969180-rh2t6p5d30fgt0atnhue41vclnrbpcu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUSJlsXVivYWA81UURtxDWvHw1T1wybVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35225969180-rh2t6p5d30fgt0atnhue41vclnrbpcu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35225969180-3ivqspv7fk8rrlqspf13j1onq0qgc0li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tester"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
